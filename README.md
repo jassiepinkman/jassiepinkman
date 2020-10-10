@@ -1,7 +1,7 @@
 ### Hi, I'm Jaskaran Singh aka [jassiepinkman][github] 👋
 
-[![github](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/jassiepinkman/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Github](https://img.shields.io/website?label=jassiepinkman&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/jassiepinkman/)
+[![LinkedIn Connect](https://img.shields.io/twitter/follow/Jaskaran Singh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
 
 ## I'm a Software Developer and Tech Enthusiast!!
 
@@ -13,9 +13,9 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jassiepinkman Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jassiepinkman Spotify Playing" width="350" />](https://open.spotify.com/album/1no8c4PYhEMGKXtGg79fMR)
 
-### Wanna Connect?!, I'm here:
+### Let's get Connected:
 
 [<img align="left" alt="jassiepinkman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="jassiepinkman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -47,8 +47,9 @@
 ### 📕 My Latest Deployed Projects
 
 <!-- MY-PROJECT-LIST:START -->
-- [Facebook Dark](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [My Own Code Editor](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Facebook Dark](https://facebook-dark-by-jassie.netlify.app)
+- [My Own Code Editor](https://codeeditorbyjassie.netlify.app)
+- [My Quizz App](https://quizz-app-jassie.netlify.app)
 <!-- MY-PROJECT-LIST:END -->
 
 
