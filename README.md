@@ -1,19 +1,20 @@
 ### Hi, I'm Jaskaran Singh aka [jassiepinkman][github] 👋
 
-[![Github](https://img.shields.io/website?label=jassiepinkman&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://github.com/jassiepinkman/)
-[![LinkedIn Connect](https://img.shields.io/twitter/follow/Jaskaran_Singh?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
+[![Linkedin](https://img.shields.io/website?label=Jaskaran Singh&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
+[![Twitter](https://img.shields.io/twitter/follow/jassiepinkman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jassiepinkman/)
 
 ## I'm a Software Developer and Tech Enthusiast!!
 
-- 🔭 Coffee === Code!
+- ⚡ Coffee === Code!
 - 🌱 Learning Full-stack Development. 
-- 👯  
 - 🥅 looking forward to contribute to Open Source projects and collaborate with other developers.
-- ⚡ Learn Together, Grow Together.
+- 🔭 Learn Together, Grow Together.
+
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jassiepinkman Spotify Playing" width="350" />](https://open.spotify.com/album/1no8c4PYhEMGKXtGg79fMR)
+
 
 ### Let's get Connected:
 
@@ -37,7 +38,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
 <br />
 <br />
 
