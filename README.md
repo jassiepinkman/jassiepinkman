@@ -14,6 +14,7 @@
 
 ### Languages and Tools:
 
+
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />]
@@ -26,7 +27,14 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
-<br />
+
+### My Latest Deployed Projects
+
+<!-- MY-PROJECT-LIST:START -->
+- [Facebook Dark](https://facebook-dark-by-jassie.netlify.app)
+- [My Own Code Editor](https://codeeditorbyjassie.netlify.app)
+- [My Quizz App](https://quizz-app-jassie.netlify.app)
+<!-- MY-PROJECT-LIST:END -->
 
 
 ### Let's get Connected:
@@ -37,15 +45,6 @@
 [<img align="left" alt="jassiepinkman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
-
-
-### 📕 My Latest Deployed Projects
-
-<!-- MY-PROJECT-LIST:START -->
-- [Facebook Dark](https://facebook-dark-by-jassie.netlify.app)
-- [My Own Code Editor](https://codeeditorbyjassie.netlify.app)
-- [My Quizz App](https://quizz-app-jassie.netlify.app)
-<!-- MY-PROJECT-LIST:END -->
 
 
 
