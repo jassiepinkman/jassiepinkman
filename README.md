@@ -1,6 +1,6 @@
 ### Hi, I'm Jaskaran Singh aka [jassiepinkman][github] 👋
 
-[![Linkedin](https://img.shields.io/website?label=Jaskaran Singh&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
+[![Linkedin](https://img.shields.io/website?label=Jaskaran_Singh&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
 [![Twitter](https://img.shields.io/twitter/follow/jassiepinkman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jassiepinkman/)
 
 ## I'm a Software Developer and Tech Enthusiast!!
