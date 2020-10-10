@@ -1,6 +1,6 @@
 ### Hi, I'm Jaskaran Singh aka [jassiepinkman][github] 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-Connect-brightgreen?style=for-the-badge&logo=https://simpleicons.org/icons/linkedin.svg)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
+[![Linkedin](https://img.shields.io/twitter/follow/jassiepinkman?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
 [![Twitter](https://img.shields.io/twitter/follow/jassiepinkman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jassiepinkman/)
 
 ## I'm a Software Developer and Tech Enthusiast!!
@@ -11,19 +11,6 @@
 - 🔭 Learn Together, Grow Together.
 
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="jassiepinkman Spotify Playing" width="350" />](https://open.spotify.com/album/1no8c4PYhEMGKXtGg79fMR)
-
-
-### Let's get Connected:
-
-[<img align="left" alt="jassiepinkman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jassiepinkman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="jassiepinkman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jassiepinkman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-
-<br />
 
 ### Languages and Tools:
 
@@ -41,7 +28,15 @@
 
 <br />
 
----
+
+### Let's get Connected:
+
+[<img align="left" alt="jassiepinkman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="jassiepinkman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="jassiepinkman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="jassiepinkman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
 
 
 ### 📕 My Latest Deployed Projects
