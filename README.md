@@ -1,13 +1,12 @@
 ### Hi, I'm Jaskaran Singh aka [jassiepinkman][github] 👋
 
-[![Linkedin](https://img.shields.io/twitter/follow/jassiepinkman?color=1DA1F2&logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
-[![Twitter](https://img.shields.io/twitter/follow/jassiepinkman?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/jassiepinkman/)
+[![Linkedin](https://img.shields.io/badge/Connect-LinkedIn-brightgreen?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
 
 ## I'm a Software Developer and Tech Enthusiast!!
 
 - ⚡ Coffee === Code!
 - 🌱 Learning Full-stack Development. 
-- 🥅 looking forward to contribute to Open Source projects and collaborate with other developers.
+- 🥅 Looking forward to contribute to Open Source projects and collaborate with other developers.
 - 🔭 Learn Together, Grow Together.
 
 
@@ -25,7 +24,7 @@
 [<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]()
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 
 
 ### My Latest Deployed Projects
