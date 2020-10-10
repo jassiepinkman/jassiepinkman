@@ -35,7 +35,7 @@
 <!-- MY-PROJECT-LIST:START -->
 - [Facebook Dark](https://facebook-dark-by-jassie.netlify.app)
 - [My Own Code Editor](https://codeeditorbyjassie.netlify.app)
-- [My Quizz App](https://quizz-app-jassie.netlify.app)
+- [Quizz App](https://quizz-app-jassie.netlify.app)
 <!-- MY-PROJECT-LIST:END -->
 
 
