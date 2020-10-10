@@ -1,6 +1,6 @@
 ### Hi, I'm Jaskaran Singh aka [jassiepinkman][github] 👋
 
-[![Linkedin](https://img.shields.io/badge/Connect-LinkedIn-brightgreen?style=for-the-badge&logo=linkedin](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
+[![Linkedin](https://img.shields.io/badge/Connect-LinkedIn-brightgreen?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaskaran-singh-a75323189/)
 
 ## I'm a Software Developer and Tech Enthusiast!!
 
