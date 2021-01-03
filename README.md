@@ -4,7 +4,7 @@
 
 ## I'm a Software Developer and Tech Enthusiast!!
 
-- ⚡ Coffee === Code!
+- ⚡ Tea === Code
 - 🌱 Learning Full-stack Development. 
 - 🥅 Looking forward to contribute to Open Source projects and collaborate with other developers.
 - 🔭 Learn Together, Grow Together.
